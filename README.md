@@ -11,9 +11,10 @@ Después de crear la GitHub Page, tarda un rato en actualizarse.
 img: post-1.jpg # Add image post (optional)
 ---
 La imagen a la que hace referencia (en este caso post-1.jpg) debe existir en la carpeta assets/img
-Para añadir una imagen dentro del post hay que hacer lo siguiente:
+- Para añadir una imagen dentro del post hay que hacer lo siguiente:
 Dejar la imagen que queramos añadir (yosh-ginsu.jpg) en la carpeta assets/img
 Añadir en el fichero del nuevo post, el código necesario para que se muestre la imagen. Lo podemos copiar de algún otro post. Por ejemplo:
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
 Ten en cuenta que siempre tarda un rato en actualizarse.
-
+-En Settings -> Pages Elegimos la rama main Pulsamos en el botón Save 
+-web https://marianpena.github.io/adam-blog/
