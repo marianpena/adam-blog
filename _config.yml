@@ -9,7 +9,7 @@ baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Mesopelagic and bathypelagic acoustics # add your name
+author: ACUSDEEP # add your name
 author-pic: adam-face.jpg
 about-author: This is a blog of the ACUSDEEP group.
 
