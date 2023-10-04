@@ -16,5 +16,7 @@ Dejar la imagen que queramos añadir (yosh-ginsu.jpg) en la carpeta assets/img
 Añadir en el fichero del nuevo post, el código necesario para que se muestre la imagen. Lo podemos copiar de algún otro post. Por ejemplo:
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
 Ten en cuenta que siempre tarda un rato en actualizarse.
+
 -En Settings -> Pages Elegimos la rama main Pulsamos en el botón Save 
+
 -web https://marianpena.github.io/adam-blog/
