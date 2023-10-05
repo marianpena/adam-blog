@@ -1,5 +1,5 @@
 ---
-img: post-1.jpg # Add image post (optional)
+img: LogoIEOgr.jpg # Add image post (optional)
 ---
 
-Hola
+IEO
